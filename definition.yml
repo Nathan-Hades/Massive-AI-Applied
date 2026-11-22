@@ -1,0 +1,15 @@
+name: Massive-AI-Applied
+display-name: "Massive-AI-Applied"
+author: NathanHades
+version: 0.1.0
+dependencies:
+    ai-ox-tethers: ^1.0.3
+    ucp2-legacy: ^2.15.1
+    running-units: ^1.0.2
+    hopfarm-limit-fix: ^0.1.2
+    aiSwapper: ^1.1.0
+    startResources: ^1.0.1
+    Massive-AI: ^0.1.0
+type: plugin
+meta:
+  version: 1.0.0
